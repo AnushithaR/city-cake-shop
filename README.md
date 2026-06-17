@@ -1,29 +1,35 @@
 # City Cake Shop Website
 
-## Overview
+A modern and responsive business website developed for **City Cake Shop, Coimbatore**, to strengthen its online presence and provide customers with easy access to product information, branch locations, delivery services, and contact details.
 
-City Cake Shop Website is the official business website developed for **City Cake Shop, Coimbatore**. The website showcases the shop's products, branch locations, home delivery services, and contact information through a modern and user-friendly interface.
+## Live Website
 
-The website helps customers explore available products, locate nearby branches, and contact the shop directly through WhatsApp and phone support.
+https://citycakeshop.netlify.app
 
----
+## Repository
 
-## Features
+https://github.com/AnushithaR/city-cake-shop
 
-* Responsive Business Website
-* Image Slider for Featured Products
-* About Us Section
-* Product Menu Showcase
-* Multiple Branch Listings
+## About the Project
+
+The City Cake Shop Website serves as the official digital platform for City Cake Shop. It is designed to showcase the shop's wide range of products, communicate business information effectively, and improve customer engagement through a clean and intuitive user interface.
+
+The website highlights product categories, branch information, delivery services, and business contact details while ensuring a seamless browsing experience across desktop and mobile devices.
+
+## Key Features
+
+* Responsive and Mobile-Friendly Design
+* Interactive Hero Image Slider
+* Product Category Showcase
+* Business Information Section
+* Branch Location Directory
 * Home Delivery Information
-* Bulk & Wholesale Order Information
+* Bulk and Wholesale Order Details
 * WhatsApp Contact Integration
-* Mobile-Friendly Design
-* Fast and Simple Navigation
+* User-Friendly Navigation
+* Optimized Visual Layout
 
----
-
-## Technologies Used
+## Technology Stack
 
 ### Frontend
 
@@ -31,14 +37,12 @@ The website helps customers explore available products, locate nearby branches, 
 * CSS3
 * JavaScript
 
-### Design Features
+### Development Tools
 
-* Responsive Layout
-* CSS Animations
-* Image Slider
-* WhatsApp Integration
-
----
+* Visual Studio Code
+* Git
+* GitHub
+* Netlify
 
 ## Project Structure
 
@@ -50,27 +54,24 @@ city-cake-shop/
 ├── script.js
 │
 └── images/
+    ├── banners
     ├── product images
-    ├── banner images
-    └── shop images
+    └── promotional assets
 ```
-
----
 
 ## Website Sections
 
 ### Home
 
-* Hero Image Slider
-* Shop Branding
-* Delivery Information
+Presents the business identity, featured visuals, and delivery information.
 
 ### About Us
 
-* Company Overview
-* Business Information
+Provides an overview of the company and its commitment to quality products and customer satisfaction.
 
 ### Menu
+
+Showcases the major product categories, including:
 
 * Cakes
 * Snacks
@@ -84,19 +85,16 @@ city-cake-shop/
 
 ### Branches
 
-* Branch Locations
-* Contact Information
+Displays branch locations and contact details across Coimbatore.
 
 ### Contact
 
-* WhatsApp Support
-* Home Delivery Contact
-
----
+Enables customers to connect directly through phone and WhatsApp.
 
 ## Business Services
 
 * Fresh Cakes
+* Bakery Products
 * Snacks and Sweets
 * Beverages
 * Ice Creams
@@ -104,46 +102,41 @@ city-cake-shop/
 * Bulk Orders
 * Wholesale Orders
 
----
+## Local Setup
 
-## How to Run
+Clone the repository:
 
 ```bash
 git clone https://github.com/AnushithaR/city-cake-shop.git
 ```
 
-Open `index.html` in any modern web browser.
+Navigate to the project directory:
 
----
+```bash
+cd city-cake-shop
+```
+
+Open `index.html` in your preferred web browser or run the project using Live Server in Visual Studio Code.
 
 ## Future Enhancements
 
 * Online Ordering System
-* Shopping Cart
-* Secure Online Payments
-* Customer Reviews
-* Product Search
+* Shopping Cart Functionality
+* Secure Payment Integration
+* Customer Reviews and Ratings
+* Product Search and Filtering
 * Order Tracking System
-* Admin Dashboard
-
----
+* Administrative Dashboard
 
 ## Client
 
 **City Cake Shop**
-
 Coimbatore, Tamil Nadu, India
-
----
 
 ## Developer
 
 **Anushitha R**
 
-Web Developer
-
----
-
 ## License
 
-Copyright © City Cake Shop. All rights reserved.
+Copyright © City Cake Shop. All Rights Reserved.
